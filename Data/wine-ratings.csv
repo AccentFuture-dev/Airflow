@@ -1,0 +1,11 @@
+wine_id,wine_name,wine_variety,winery,points,price
+1,Chardonnay,Chardonnay,Winery A,90,20.0
+2,Cabernet Sauvignon,Cabernet Sauvignon,Winery B,88,18.5
+3,Pinot Noir,Pinot Noir,Winery C,92,22.0
+4,Merlot,Merlot,Winery D,85,15.0
+5,Sauvignon Blanc,Sauvignon Blanc,Winery E,91,19.0
+6,Zinfandel,Zinfandel,Winery F,89,17.0
+7,Shiraz,Shiraz,Winery G,93,23.0
+8,Riesling,Riesling,Winery H,87,16.0
+9,Malbec,Malbec,Winery I,86,15.5
+10,Prosecco,Prosecco,Winery J,88,14.0
